@@ -6,6 +6,8 @@ Method
 
 Limitations
 
+Lessons learned
+
 Opportunities
 
 Acknowledgements
