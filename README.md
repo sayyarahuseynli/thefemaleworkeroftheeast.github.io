@@ -10,4 +10,4 @@ Opportunities
 
 Acknowledgements
 
-Additional resources
+Teaching resources
