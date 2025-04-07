@@ -4,6 +4,8 @@ About the project
 
 ![cover picture](Azerbaijani.jpg)
 
+Why this project?
+
 About the primary source
 
 Method and its limitations
