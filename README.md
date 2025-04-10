@@ -12,6 +12,8 @@ Document the implementation process of working with Russian language in a topic 
 
 **About the primary source**
 
+The Female Worker of the East,published in the USSR from 1927 to 1929, as an example of popular ethnography from this period, i.e., ethnographic knowledge communicated via non-specialized texts for a broad audience. Created by ethnographers affiliated with the Scientific Association of Oriental Studies, the pamphlets used the language of description that drew both on Russian academic ethnography of the Imperial period and the Marxist ideological canonfile:///Users/sayyarahuseynli/Downloads/voobrazhaya-sovetskiy-vostok-narrativy-populyarnoy-etnografii-v-serii-broshyur-truzhenitsa-vostoka-1927-1929.pdf 
+
 **Method and its limitations**
 
 **Lessons learned and Opportunities**
