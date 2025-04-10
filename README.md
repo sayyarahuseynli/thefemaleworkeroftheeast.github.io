@@ -1,6 +1,6 @@
 # ethnic-women-in-soviet-space
 About the project
-“Ethnic Women in Soviet Space” is a repository dedicated to the portrayal of women from 30 ethnic groups within the early Soviet Union. “Труженица Востока” "Truzhenit︠s︡a Vostoka" journal published between 1928-20 is the primary source. I use topic modeling to identify how women were used as forces to propel the revolutionary agenda. 
+“Ethnic Women in Soviet Space” is a repository showcasing the official portrayal of women from thirty ethnic groups within the Soviet Union. The information about these women was published in “Труженица Востока” ("Truzhenit︠s︡a Vostoka") journal between 1928-20. I use topic modeling to identify how the propoganda language in this early Soviet publication, intentionally posits indigenous women as oppressed, patrionized and victims of the previous regime. Although the Soviet system's goal here is depicted as emancipatory, the real goal of the system in liberating women was to ensure provision of labor forces to support the rapid industrilization process and propel the economic progress.     
 
 ![cover picture](Azerbaijani.jpg)
 
