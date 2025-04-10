@@ -28,5 +28,7 @@ One contextual category embedded in the tracking file above is the religious div
 **Teaching resources**
 
 [Russian Corpora](https://ruscorpora.ru/en) 
+
 [Topic Modeling Russian History](https://link.springer.com/chapter/10.1007/978-3-030-42855-6_24#Sec9)
+
 [Meet the Method: Computational Text Analysis](https://cssh.northeastern.edu/nulab/meet-the-method-computational-text-analysis/)  
