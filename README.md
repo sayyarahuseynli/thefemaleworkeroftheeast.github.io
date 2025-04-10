@@ -4,7 +4,10 @@ About the project
 
 ![cover picture](Azerbaijani.jpg)
 
-Why this project?
+Research questions
+Diversify our understanding of Muslim women’s role in early Soviet History through topic modeling of the publication called "Trujenisa Vostoka" 
+Pose critical research questions based on the results generated through topic modeling
+Document the implementation process of working with Russian language in a topic modeling Mallet, especially the stopwords
 
 About the primary source
 
