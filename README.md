@@ -9,6 +9,7 @@ About the project
 - Diversify our understanding of Muslim women’s role in early Soviet History through topic modeling of the publication called "Trujenisa Vostoka"
   
 - Pose critical research questions based on the results generated through topic modeling
+  * 
   
 - Document the implementation process of working with Russian language in a topic modeling Mallet, especially the stopwords
 
@@ -25,3 +26,7 @@ One contextual category embedded in the tracking file above is the religious div
 **Lessons learned and Opportunities**
 
 **Teaching resources**
+
+[Russian Corpora](https://ruscorpora.ru/en) 
+[Topic Modeling Russian History](https://link.springer.com/chapter/10.1007/978-3-030-42855-6_24#Sec9)
+[Meet the Method: Computational Text Analysis](https://cssh.northeastern.edu/nulab/meet-the-method-computational-text-analysis/)  
