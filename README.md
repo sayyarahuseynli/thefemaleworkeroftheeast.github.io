@@ -1,7 +1,9 @@
 # The Female Worker of the East
 
 * [Stopwords](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Stopwords)
-- [Primary source](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Primary%20source)
+ 
+* [Primary source](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Primary%20source)
+  
 * [Technical tools](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Technical%20tools)
 
 About the project
