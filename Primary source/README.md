@@ -3,12 +3,12 @@ The Female Worker of the East, “Tруженица Востока” in Russian
 Natalia Chernyaeva, a researcher who specializes in the history of parenting and motherhood in Imperial and Soviet Russia, says that these pamphlets are not regular examples of Soviet propaganda. There are three distinct features of this publication that sets it apart from other propaganda materials. Dr. Chernyaeva pointed out that the publication has been authored by cultural professionals, such as anthropologists and ethnographers, rather than members Bolshevik party. The evidence of cultural authorship are photos, maps, descriptions of cultural traditions such as marriages, household behaviors, and lifestyles (see Image 1.). The second feature is the inclusion of narratives describing the local ecology and landscape (see Image 2.). The descriptions of the temperature changes, flora and fauna, and natural resources help the readers of these brochures image the regions of the country they would have never had the change to visit, due to limited financial resources and lack of transportation infrastructure available for most people. The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions (see Image 3.)
 See examples below: 
 
-	Image 1. ![Map of Turkmenistan](Primary source/Image 1. Map of Turkmenistan.jpg)
-	Image 2. ![Description of the landscape] (Primary source/Image 2. Description of the landscape.jpg)
+	Image 1. ![Map of Turkmenistan](https://github.com/sayyarahuseynli/workeroftheeast.github.io/blob/main/Primary%20source/Image%201.%20Map%20of%20Turkmenistan.jpg)
+	Image 2. ![Description of the landscape] (https://github.com/sayyarahuseynli/workeroftheeast.github.io/blob/main/Primary%20source/Image%202.%20Description%20of%20the%20landscape.jpg)
  
 	Translation of the excerpt, paragraph 2, sentence 1: “Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.” p. 4. Brochure about Turkmen women (from Turkmenistan). 
  
-	Image 3. ![Excerpt from page 32] (Primary source/Image 3. Excerpt from page 32.jpg)
+	Image 3. ![Excerpt from page 32] (https://github.com/sayyarahuseynli/workeroftheeast.github.io/blob/main/Primary%20source/Image%203.%20Excerpt%20from%20page%2032.jpg)
  
 Translation of the excerpt, paragraph 2, sentence 2. “Her subtle artistic taste illustrated on the handmade carpets, textiles, and other objects, raise her above men, whose works are devoid of any artistic expression. 2nd sentence in the 2nd paragraph. p.32
  
