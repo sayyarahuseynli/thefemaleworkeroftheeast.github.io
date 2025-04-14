@@ -11,7 +11,7 @@ About the project
 
 **Research questions**
 
-- Diversify our understanding of Muslim women’s role in early Soviet History through topic modeling of the publication called "Trujenisa Vostoka"
+- Diversify our understanding of Muslim women’s occupations in late Imperial Russian and early Soviet History by using topic modeling tool, Mallet
   
 - Pose critical research questions based on the results generated through topic modeling
   
