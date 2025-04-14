@@ -1,0 +1,17 @@
+The Female Worker of the East, “Tруженица Востока” in Russian, brochure is published in the USSR between 1927 and 1929, is as an example of popular ethnography from this period. Here the ethnographic knowledge is communicated via non-specialized texts describing the diversity of communities living under the umbrella of the union written for the consumption of a broad audience. Created by ethnographers affiliated with the Scientific Association of Oriental Studies, the brochures use the language of description that draws both on Russian academic ethnography of the Imperial period and the Marxist ideological canonfile. Read more here.
+
+Natalia Chernyaeva, a researcher who specializes in the history of parenting and motherhood in Imperial and Soviet Russia, says that these pamphlets are not regular examples of Soviet propaganda. There are three distinct features of this publication that sets it apart from other propaganda materials. Dr. Chernyaeva pointed out that the publication has been authored by cultural professionals, such as anthropologists and ethnographers, rather than members Bolshevik party. The evidence of cultural authorship are photos, maps, descriptions of cultural traditions such as marriages, household behaviors, and lifestyles (see Image 1.). The second feature is the inclusion of narratives describing the local ecology and landscape (see Image 2.). The descriptions of the temperature changes, flora and fauna, and natural resources help the readers of these brochures image the regions of the country they would have never had the change to visit, due to limited financial resources and lack of transportation infrastructure available for most people. The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions (see Image 3.)
+See examples below: 
+
+	Image 1. ![cover picture](Image 1. Map of Turkmenistan)
+	Image 2. ![cover picture] (Image 2. Description of the landscape) Excerpt from the brochure, p. 4
+ 
+	Translation of the text on the image: “Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.” p. 4. Brochure about Turkmen women (from Turkmenistan). 
+ 
+	Image 3. ![cover picture] (Image3. Excerpt from page 32)
+ “Her subtle artistic taste illustrated on the handmade carpets, textiles, and other objects, raise her above men, whose works are devoid of any artistic expression. 2nd sentence in the 2nd paragraph. p.32
+ 
+The corpus for the current project is located on Harvard Hollis Library website, where each of the thirty issues of the publication can be downloaded as separate PDFs. The access to the files on the page is open, allowing individuals outside of Harvard to view and download the material. 
+Initially, I tried to find OCR tools to convert the PDFs into text, which proved to be tedious due to the excessive number of unrecognized characters that appeared during the translation process. Luckily, I discovered an embedded option on the Viewer page, called View Text, which makes the text on the image from PDF appear as simple text without using a third-party software. 
+
+
