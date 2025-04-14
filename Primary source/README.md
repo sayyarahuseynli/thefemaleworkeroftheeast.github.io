@@ -8,13 +8,13 @@ The second feature is the inclusion of narratives describing the local ecology a
 
 Image 2. ![Translation of the excerpt.](https://github.com/sayyarahuseynli/workeroftheeast.github.io/blob/main/Primary%20source/Image%202.%20Description%20of%20the%20landscape.jpg). 
 
->Translation of the paragraph 2, sentence 1: _“Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.”_ p. 4>
+>Translation of the paragraph 2, sentence 1: _“Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.”_ p. 4
 
 The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions. It is this aspect of the project that demostrates the women as capable and talented individuals. For this reason, in the topic modeling that I use in this prject, I pay close attention to the appearance of words associated with forms of women's cultural production, such as textile, household object, and carpets. The excerpt on next picture illusrates this point. 
 
 Image 3. ![Translation of the excerpt](https://github.com/sayyarahuseynli/workeroftheeast.github.io/blob/main/Primary%20source/Image%203.%20Excerpt%20from%20page%2032.jpg)
 
->Translation of the paragraph 2, sentence 2. _“Her subtle artistic taste illustrated on the handmade carpets, textiles, and other objects, raise her above men, whose works are devoid of any artistic expression. 2nd sentence in the 2nd paragraph"_. p.32>
+>Translation of the paragraph 2, sentence 2. _“Her subtle artistic taste illustrated on the handmade carpets, textiles, and other objects, raise her above men, whose works are devoid of any artistic expression. 2nd sentence in the 2nd paragraph"_. p.32
   
 The corpus for the current project is located on Harvard Hollis Library website, where each of the thirty issues of the publication can be downloaded as separate PDFs. The access to the files on the page is open, allowing individuals outside of Harvard to view and download the material. 
 Initially, I tried to find OCR tools to convert the PDFs into text, which proved to be tedious due to the excessive number of unrecognized characters that appeared during the translation process. Luckily, I discovered an embedded option on the Viewer page, called View Text, which makes the text on the image from PDF appear as simple text without using a third-party software. 
