@@ -19,7 +19,7 @@ For the humanist analysis of the brochures I use an article published by Natalya
 
 The digital humanities component of the project, which is the main focus, uses a [topic modeling](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#what-is-topic-modeling-and-for-whom-is-this-useful) to identify cultural contributions of women to their respective societies, the information that is given little attention and analysis in the brochure. The state support for the universal eradication of illiteracy, participation in the political and social lives amongst women is undeniable. However, it is also crucial to remember that the system's goal of emancipation, was directed at ensuring that women would contribute to the rapid industrialization process and propel the economic progress.     
 
-![cover picture](Azerbaijani.jpg)
+![cover picture](cover_photo.jpg)
 
 **Research questions**
 
