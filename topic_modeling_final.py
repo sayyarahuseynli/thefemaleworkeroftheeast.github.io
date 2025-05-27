@@ -18,7 +18,7 @@ import os
 import ru_core_news_lg
 nlp = ru_core_news_lg.load()
 
-stopwordsfile = 'ru.txt'
+stopwordsfile = 'updated_stopwords_ru.txt'
 outname = 'topicmodel.csv'
 
 # Open and read text my list of stopwords
@@ -105,7 +105,7 @@ for text in data_bigrams_trigrams:
 
 # Specify number of topics (clusters of words)
 
-num_topics = 100   # Experiment with more and fewer numbers of topics, comparing results
+num_topics = 10   # Experiment with more and fewer numbers of topics, comparing results
 
 # Create LDA model
 lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
@@ -123,7 +123,7 @@ lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus,
 print(lda_model.show_topics())
 
 # Output visualization
-vis_data = gensimvis.prepare(lda_model, corpus, id2word, R=15, mds='mmds')
+vis_data = gensimvis.prepare(lda_model, corpus, id2word, R=10, mds='mmds')
 vis_data
 pyLDAvis.display(vis_data)
 pyLDAvis.save_html(vis_data, './topicVis' + str(num_topics) + '.html')
