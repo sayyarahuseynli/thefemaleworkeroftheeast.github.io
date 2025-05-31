@@ -6,7 +6,7 @@ Image 1. ![MapofTurkmenistan](image1.mapofturkmenistan.jpg)
 
 The second feature is the inclusion of narratives describing the local ecology and landscape. The descriptions of the temperature changes, flora and fauna, and natural resources help the readers of these brochures image the regions of the country they would have never had the change to visit, due to limited financial resources and lack of transportation infrastructure available for most people. 
 
-Image 2. ![Translation of the excerpt.](image2.descriptionofthelandscape). 
+Image 2. ![Translation of the excerpt.](image2.descriptionofthelandscape.jpg). 
 
 >Translation of the paragraph 2, sentence 1: _“Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.”_ p. 4
 
