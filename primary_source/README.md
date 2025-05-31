@@ -10,7 +10,7 @@ Image 2. ![Translation of the excerpt.](https://github.com/sayyarahuseynli/worke
 
 >Translation of the paragraph 2, sentence 1: _“Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.”_ p. 4
 
-The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions. It is this aspect of the project that demostrates the women as capable and talented individuals. For this reason, in the topic modeling, I pay close attention to the appearance of words associated with forms of women's cultural production, such as textile, household object, and carpets. The excerpt on next picture illusrates an example of such mentions. 
+The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions. It is this aspect of the project that demonstrates the women as capable and talented individuals. For this reason, in the topic modeling, I pay close attention to the appearance of words associated with forms of women's cultural production, such as textile, household object, and carpets. The excerpt on next picture illusrates an example of such mentions. 
 
 Image 3. ![Translation of the excerpt](https://github.com/sayyarahuseynli/workeroftheeast.github.io/blob/main/Primary%20source/Image%203.%20Excerpt%20from%20page%2032.jpg)
 
