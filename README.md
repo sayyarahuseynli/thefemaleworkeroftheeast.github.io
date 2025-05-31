@@ -17,7 +17,7 @@ However, I decided to take a closer look at these historical documents to try to
 - Considering that topic modeling is designed to analyze representative or thematic samples of large data sets, what are be the benefits of utilizing it with a small corpus? 
 
 
-Overall, I argue that "The Female Worker of the East" presents a complex and multifauceted perspective on Muslim women which needs a careful and close examination. Even thought this complexity may not be visible in the topic modeling outputs, small size print media like this one, can serve as a starting points for intriguing research questions that guide the work of other researchers.  
+Overall, I argue that "The Female Worker of the East" presents a complex and multifaceted perspective on Muslim women which needs a careful and close examination. Even thought this complexity may not be visible in the topic modeling outputs, small size print media like this one, can serve as a starting points for intriguing research questions that guide the work of other researchers.  
 
 
 >How to engage with the project?
