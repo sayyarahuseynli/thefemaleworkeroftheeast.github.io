@@ -1,5 +1,6 @@
-## Mallet 
-What is Mallet? 
+## spaCy
+ 
+<What is spaCy? 
 
 Mallet is an open source [toolkit](https://mimno.github.io/Mallet/) that can be used for distant reading and topic modeling. The topic modeling feature of Mallet is useful for analyzing untagged text. Mallet is not a software that can downloaded and ran on a device, instead downloadable package of files that require Java to operate. Terminal or command line is the the primary place of engaging with this tool. This felt unusual for me at first, however, I was able to feel more comfortably through using existing tutorials and practicing.        
 
