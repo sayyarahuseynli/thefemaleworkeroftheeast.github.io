@@ -4,9 +4,6 @@
   
 * [Technical tools](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Technical%20tools)
 
-
-**About the primary source**
-
 >About the project:
 
 This Digital Humanities Certificate project is called The Female Worker of the East (trans. “Труженица Востока”). The project shares its title with the publication it is based on a short periodical published between 1927 – 1929. Each issue of consists of 30-50 pages, describing the livelihoods of women from thirty ethnic groups living across Soviet geography. The title signals to how Soviet ethnographers, who compiled the publication, conceptualized the idea of the “East”. At first glance, despite the size of the community, all are described in the same manner, namely backwards, especially the women.  Other similarities include the number of chapters, the same narrative structure, which starts with the overview of environment each community inhabits, followed by observations on the roles of women in the communities before and after the revolution. Lastly, all issues have the same circulation of 7000 copies, with prices ranging between 18-22 cents (kopeek). Considering such a limited scope and the language of the publication being Russian, it is reasonable to assume that the primary public for the print media were the educated elite, and institutional settings, such as libraries and universities. 
