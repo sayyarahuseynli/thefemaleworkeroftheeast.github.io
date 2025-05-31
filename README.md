@@ -22,7 +22,7 @@ Overall, I argue that "The Female Worker of the East" presents a complex and mul
 
 >How to engage with the project?
 
-* [Primary source](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Primary%20source)
+* [Primary source](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/primary_source)
   
 * [Technical tools](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Technical%20tools)
 
