@@ -1,4 +1,3 @@
-## AntConc
 ## Mallet 
 What is Mallet? 
 
