@@ -5,9 +5,4 @@ The visuals included in the current folder contain the outputs of Topic Modeling
 
 The first number present in the file name represents the number of topics portrayed in that visual. The reason for having two repeating numbers in the title, is to preserve the file in case if I ran the topic modeling with the same number of topic but switched other variables, such as the number of columns appearing on the right side of the visual. 
 
-
-Image 1. ![MapofTurkmenistan](image1.mapofturkmenistan.jpg)
-
-
->
-
+<iframe src="file:///Users/sayyarapoliferno/Documents/GitHub/ethnic-women-in-soviet-space/visualizations/topicVis10.html" title="Visualization10topics"></iframe>
