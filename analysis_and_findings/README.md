@@ -22,7 +22,7 @@ Secondly, this Chernyaeva's article helped me notice a research gap. I realized 
 - How are the Muslim women, who represent 13 out of 30 ethnic groups accounted for in the brochures, are described in comparison to their non-Muslim counterparts? How does the topic modeling demonstrate these discrepancies? 
 - Are there any discrepancies that came up in the topic modeling outputs?
 
-[^1]: Chernyaeva, N. Imagining the Narratives of the Soviet East: Narratives of Popular Ethnography in a Series of Pamphlets series, The Female Worker of the East, 1927-1929. Etnografia. 2022. 3(17): 149-178: 149-178. 164-165.
+[^1]: Chernyaeva, N. _Imagining the Narratives of the Soviet East: Narratives of Popular Ethnography in a Series of Pamphlets series, The Female Worker of the East, 1927-1929. Etnografia_. 2022. 3(17): 149-178: 149-178. 164-165.
 
 ## Analysis ##
 
