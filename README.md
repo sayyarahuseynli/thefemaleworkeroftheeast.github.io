@@ -8,20 +8,20 @@ This Digital Humanities Certificate project is called "The Female Worker of the 
 ![cover picture](cover_photo.jpg)
 
 
-At first glance, I noticed a descriptive, structural and marketing uniformity among the brochures. For one, the ethnic groups within each respective brochure appear to have been described as backwards, particularly the women. Structurally, all thirty have the same number of chapters, following the same narrative structure, which starts with an overview of the environment each community inhabits, followed by observations on the roles of women in the community as whole and in the family, finalized by developments brought to these communities after the revolution. From the marketing standpoint, all had the circulation of 7000 copies, with prices ranging between 18-22 cents (trans. from Russian копеек). Considering such a limited scope and the Russian being the language of the publication, it is reasonable to assume that the intended public for them were educated elite, and institutional settings, such as libraries and universities. 
+At first glance, I noticed a descriptive, structural and marketing uniformity among the brochures. For one, the ethnic groups within each respective brochure appear to have been described as backwards, particularly the women. Structurally, all thirty have the same number of chapters, following the same narrative structure, which starts with an overview of the environment each community inhabits, followed by observations on the roles of women in the community as whole and in the family, finalized by developments brought to these communities after the revolution. From the marketing standpoint, all had a circulation of 7000 copies, with prices ranging between 18-22 cents (trans. from Russian копеек). Considering such a limited scope and Russian being the language of the publication, it is reasonable to assume that the intended public for them were educated elite and institutional settings, such as libraries and universities. 
 
-However, I decided to take a closer look at these historical documents to try to unearth what their authors might have hidden on the plain sight. For this interrogation I decided to utilize topic modeling using spaCy, a natural language processing (NLP) model which using Python to operate. For my research I identified the following **questions**: 
+However, I decided to take a closer look at these historical documents to try to unearth what their authors might have hidden in plain sight. For this interrogation I decided to utilize topic modeling using spaCy, a natural language processing (NLP) model which uses Python to operate. For my research I identified the following **questions**: 
 
-- What are the main topics that are shared among brochures? Do they mach to the results of the close reading? 
+- What are the main topics that are shared among brochures? Do they match to the results of the close reading? 
 
-- How are the Muslim women, who represent 13 out of 30 ethnic groups accounted for in the brochures, are described in comparison to their non-Muslim counterparts? How does the topic modeling demonstrate these discrepancies? Are there any discrepancies that came up in the topic modeling outputs?
+- How are the Muslim women, who represent 13 out of 30 ethnic groups accounted for in the brochures, described in comparison to their non-Muslim counterparts? How does the topic modeling demonstrate these discrepancies? Are there any discrepancies that came up in the topic modeling outputs?
 
-- What is the role of stop words in this project? How to make decisions on what words to keep and what to remove in the pre-processing? How do these decisions impact the topic modeling output?
+- What decisions are made to determine which stopwords to keep and which to remove in the pre-processing? How do these decisions impact the topic modeling output?
 
-- Considering that topic modeling is designed to analyze representative or thematic samples of large data sets, what are be the benefits of utilizing it with a small corpus? 
+- Considering that topic modeling is designed to analyze representative or thematic samples of large data sets, what the benefits of utilizing it with a small corpus? 
 
 
-Overall, I argue that "The Female Worker of the East" presents a complex and multifaceted perspective on Muslim women which needs a careful and close examination. Even thought this complexity may not be visible in the topic modeling outputs, small size print media like this one, can serve as a starting points for intriguing research questions that guide the work of other researchers. Based on the research questions, I expect the audience of this project to be researchers of the Soviet gender and minority histories and digital humanists interested in using topic modeling as a primary analytical tool. 
+Overall, I argue that "The Female Worker of the East" presents a complex and multifaceted perspective on Muslim women which needs a careful and close examination. Even though this complexity may not be visible in the topic modeling outputs, small size print media like this one can serve as a starting point for intriguing research questions, guiding the work of other researchers. Based on the research questions, I expect the audience of this project to be researchers of Soviet gender and minority histories and digital humanists interested in using topic modeling as a primary analytical tool. 
 
 
 ## How to engage with the project? ##
