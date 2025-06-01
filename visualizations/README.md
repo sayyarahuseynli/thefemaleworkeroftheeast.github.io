@@ -23,5 +23,5 @@ All visuals included in the current folder are interactive. However, due to tech
 
 
 
-![10topic](10topicscreenshot)
+![10topic](10topics.jpg)
 
