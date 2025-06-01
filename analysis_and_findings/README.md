@@ -1,5 +1,3 @@
-# The Female Worker of the East
-
 ## Context on the analysis ##
 
 To Frame the analysis and subsequent findings of the current project I relied on the key approaches in the [Topic Modeling Martha Ballard's Diary](https://cblevins.github.io/posts/topic-modeling-martha-ballards-diary/) project by Cameron Blevins, and discussion points from the article "ВООБРАЖАЯ СОВЕТСКИЙ ВОСТОК: НАРРАТИВЫ ПОПУЛЯРНОЙ ЭТНОГРАФИИ В СЕРИИ БРОШЮР «ТРУЖЕНИЦА ВОСТОКА», 1927-1929" [Imagining the Narratives of the Soviet East: Popular Ethnography in the Female Worker of the East brochure series](https://journal.kunstkamera.ru/archive/2024_nomer_2_24/chernyaeva_n_a_povtornoe_ispolzovanie_etnograficheskoj_fotografii_i_rezhimy_vizualizacii_etnichnosti_na_primere_fotografii_iz_ko) by Natalya Anatolyevna Chernyaeva (Наталья Анатольевна Черняева). 
