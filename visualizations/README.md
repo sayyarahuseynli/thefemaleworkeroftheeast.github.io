@@ -19,7 +19,7 @@ All visuals included in the current folder are interactive. However, due to tech
 - Use the top left “Selected Topic” box to view topics clustered together. 
   * For example, in the 10-topic visual only 6 topics are visible on the left chart, 7-10 are clustered together under the number 10, formatted in bold. To view topic 8, type that number in the “Selected Topic” box, which makes the terms of that topic appear on the right side of the screen. 
 - The circles represent topics while the sizes correlate with their commonality 
-- The space between the circles show the similarity of topics
+- The space between the circles shows the similarity of topics
 
 
 
