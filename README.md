@@ -37,7 +37,7 @@ Overall, I argue that "The Female Worker of the East" presents a complex and mul
 * [Acknowledgements](https://github.com/sayyarahuseynli/workeroftheeast.github.io/wiki/Acknowledgment#who-made-the-project-possible)
 
 
-##Useful links ##
+## Useful links ##
 
 In English:
 
