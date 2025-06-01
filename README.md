@@ -26,9 +26,6 @@ Overall, I argue that "The Female Worker of the East" presents a complex and mul
   
 * [Technical tools](https://github.com/sayyarahuseynli/workeroftheeast.github.io/tree/main/Technical%20tools)
 
-For the humanist analysis of the brochures I use an article published by Natalya Chernyaeva, who conducted an [analysis](https://www.academia.edu/102573955/Chernyaeva_Imagining_the_Soviet_East_Narratives_of_Popular_Ethnography_in_a_Series_of_Pamphlets_The_Female_Worker_of_the_East_1927_1929) of the textual and visual materials included in the publication. According to the Chernyaeva, the brochure was created "by ethnographers affiliated with the Scientific Association of Oriental Studies, the brochures used the language of description that drew both on Russian academic ethnography of the Imperial period and the Marxist ideological canonfile." Quote from this article. [Read more here](https://cyberleninka.ru/article/n/voobrazhaya-sovetskiy-vostok-narrativy-populyarnoy-etnografii-v-serii-broshyur-truzhenitsa-vostoka-1927-1929/viewer) the static and uncivilized perspective of the "other" within the Soviet Union positioned the reader, the Russian, as a civilized and modern. This approach supported the Soviet civilizing mission as well. However, the author does not criticize the content, which is why the current intervention is important. Using secondary literacy on specific communities, I will provide more accurate information about a particular group.    
-
-
 ![cover picture](cover_photo.jpg)
 
 
