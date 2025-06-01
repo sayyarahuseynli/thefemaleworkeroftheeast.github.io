@@ -17,13 +17,13 @@ All visuals included in the current folder are interactive. However, due to tech
 
 ### Suggested actions for interactivity: ###
 
+Please note: The circles represent topics while the sizes correlate with their commonality. The space between the circles shows the similarity of topics.
+
 - Use the top left “Selected Topic” box to view topics clustered together. 
   * For example, in the 10-topic visual, only 6 topics are visible on the left chart, whereas topics 7-10 are clustered together under the number 10, formatted in bold. To view topic 8, type that number in the “Selected Topic” box, which makes the terms of that topic appear on the right side of the screen. 
 - Use “Slide to adjust relevance metric:” to view terms within that topic from most common to least common.
   * 1.0 represents the most relevant terms in that topic
-  * 0.0 represents the least relevant terms in that topic, ie. Terns that may have appeared only in one or two documents
-- The circles represent topics while the sizes correlate with their commonality 
-- The space between the circles shows the similarity of topics
+  * 0.0 represents the least relevant terms in that topic, ie. terms that may have appeared only in one or two documents
 
 
 
