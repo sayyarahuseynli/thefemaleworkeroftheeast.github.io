@@ -19,7 +19,7 @@ Please note: The circles represent topics while the sizes correlate with their c
   * 1.0 represents the most relevant terms in that topic
   * 0.0 represents the least relevant terms in that topic, ie. terms that may have appeared only in one or two documents
 
-
+Unfortunately, at the moment, the interactives are not available. I am still learning how to embed an html file saved on my computer to GitHub. 
 
 ![10topic](10topics.jpg)
 
