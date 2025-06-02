@@ -27,3 +27,10 @@ Secondly, this Chernyaeva's article helped me notice a research gap. I realized 
 One of the most important decisions that needs to be made before conducting a topic modeling analysis is to decide an optimal number of topics. Most researchers suggest experimenting with different numbers to evaluate the quality of topic outputs. On one hand, analyzing larger data sets with a low number of topics can result in topics that are too general, missing out on the granularity of the data. On the other hand, using too many topics will generate outputs with topics that are too rare and non-representative. 
 
 For the current analysis, I experimented with 10, 30, 50 and 100 topics. The outputs generated using 10 and 30 topics were more interesting than those of 50 and 100. For this reason, the analysis in the findings file includes excerpts from using 10 and 30 topics. 
+
+### 10 topics ###
+![visual10](10topics.jpg)
+
+
+### 30 topics ###
+![visual30](30topics.jpg)
