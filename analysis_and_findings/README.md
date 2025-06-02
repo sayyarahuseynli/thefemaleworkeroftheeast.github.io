@@ -30,6 +30,6 @@ For the current analysis, I experimented with 10, 30, 50 and 100 topics. The out
 
 See the static images of 10 and 30 topics here: 
 
-([10topics.jpg](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/10topics.jpg)) 
+([10topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/10topics.jpg)) 
 
-([30 topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/30topics.jpg)) 
+([30topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/30topics.jpg)) 
