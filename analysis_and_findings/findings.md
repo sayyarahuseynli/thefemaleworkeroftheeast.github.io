@@ -28,7 +28,7 @@ In some instances, the term “position” describes the status and credibility 
 Example 3: 
 >“Не в пример женщинам соседних народностей, вотячка и некоторых отношениях пользовалась и до революции большой свободой…Но, на ряду с этим, в ее быте есть много отрицательного...” 
 
-Translation: “Unlike women of neighboring ethnicities, the Votyak woman enjoyed great freedoms even before the revolution... But, along with this, there were many negative aspects in her everyday life…” “Votachka” brochure, p. 17
+>Translation: “Unlike women of neighboring ethnicities, the Votyak woman enjoyed great freedoms even before the revolution... But, along with this, there were many negative aspects in her everyday life…” “Votachka” brochure, p. 17
 
 Comparatively, Topic 6 signals to the presence of discussions about the economy of labor, which is an ambiguous theme. To understand the meaning of it, I close read the texts and concluded that two types of economies have been described in the brochures: one, the primary income generating occupation within each community, and two, the economic dependency of women on their husbands.
 
