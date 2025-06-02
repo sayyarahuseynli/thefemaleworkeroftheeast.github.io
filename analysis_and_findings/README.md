@@ -28,4 +28,6 @@ One of the most important decisions that needs to be made before conducting a to
 
 For the current analysis, I experimented with 10, 30, 50 and 100 topics. The outputs generated using 10 and 30 topics were more interesting than those of 50 and 100. For this reason, the analysis in the findings file includes excerpts from using 10 and 30 topics. 
 
-See the static images of 10 and 30 topics here: (visualizations/10topics.jpg) 
+See the static images of 10 and 30 topics here: ([10topics.jpg](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/10topics.jpg)) 
+
+([30 topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/30topics.jpg)) 
