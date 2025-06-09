@@ -13,3 +13,5 @@ Please be aware that I wasn't able to use any of the existing tutorials for proc
 >Sherman Centre for Digital Scholarship, [Topic Modeling with Python (Gensim & spaCy)](https://learn.scds.ca/text-analysis-3/lessons/tmpython.html#step4)
 
 >Fares Sayah, [Mastering Text Analysis and Topic Modeling with spaCy and Gensim](https://medium.com/@sayahfares19/text-analysis-topic-modelling-with-spacy-gensim-4cd92ef06e06)
+
+You can read more information about the different stages of the process in this [Google doc](https://docs.google.com/document/d/1U5P1JX93KRGIx_zXjibidHvNtTbw0pd_NUh8-X43qmY/edit?tab=t.0)
