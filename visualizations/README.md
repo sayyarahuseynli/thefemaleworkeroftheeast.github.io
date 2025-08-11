@@ -13,7 +13,7 @@ To view the file, navigate to the file in the Visualizations folder, select one 
 ![downloadrawfile](downloadrawfile.jpg)
 
 
-## How to interact with the visuals? ## 
+### How to interact with the visuals? ###
 All visuals included in the current folder are interactive. However, due to technical difficulty of embedding these visuals directly on GitHub, I opted to include static screenshots followed by URLs. By clicking the URLs, the user of the project can engage with the visual directly. 
 
 ### Suggested actions: ###
