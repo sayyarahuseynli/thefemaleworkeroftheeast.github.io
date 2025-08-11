@@ -22,4 +22,4 @@ Please note: The circles represent topics while the sizes correlate with their c
   * 1.0 represents the most relevant terms in that topic
   * 0.0 represents the least relevant terms in that topic, ie. terms that may have appeared only in one or two documents
 
-* Disclaimer: I haven't found a way to embed the HTML files into GitHub. This is the reason I guide my readers to download the files on their computers for viewing. Hopefully, this is a temporary solution. In the meantime, I appreciate your patience, my dear reader.
+* Disclaimer: I haven't found a way to embed the HTML files into GitHub. This is the reason I guide my readers to download the files on their computers to view them. Hopefully, this is a temporary solution. In the meantime, I appreciate your patience, my dear reader.
