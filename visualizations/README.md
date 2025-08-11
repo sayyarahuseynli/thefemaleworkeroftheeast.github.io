@@ -1,6 +1,6 @@
 ## About the visuals ##
 
-The visuals included in the current folder contain the outputs of Topic Modeling with Python using spaCy and Gensim. The visualization aspect was possible with the help of pyLDAvis, which is the last action performed in the topic modeling code.
+The visuals included in the current folder contain the outputs of Topic Modeling generated using Python together with spaCy. The specific tool that made the visuals possible was [pyLDAvis](https://pypi.org/project/pyLDAvis/), the tool of Python library designed to create interactive visualizations.
 
 ### File naming convention ###
 
