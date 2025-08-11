@@ -7,9 +7,11 @@ The visuals included in the current folder contain the outputs of Topic Modeling
 The generated file names follow the naming convention: topicVis + the number of topics portrayed in that visual + .html. If I changed any variables, such as the number of columns, and ran the topic model code without changing the file name, the file that was generated first would be overwritten. To preserve the results of my numerous experiments, I made sure to change the file name every time. I added an underscore (_) and the identified the number of topics applicable for that run, which is reflected at the end of the file name.
 
 ## How to view with the visuals? ## 
-To view the file, navigate to the file in the Visualizations folder, select one of the HTML files, and click on it. You will see the raw file on your page, that's all right. Bring your cursor to the third button at the top right side of the page, which will be Download raw file. Having downloaded it on your devide, open the file using your favorite browser and explore. 
+To view the file, navigate to the file in the Visualizations folder, select one of the HTML files, and click on it. You will see the raw file on your page, that's all right. Bring your cursor to the third button at the top right side of the page, which will be Download raw file. Having downloaded it on your devide, open the file using your favorite browser and explore. See the image below: 
+
 
 ![downloadrawfile](downloadrawfile.jpg)
+
 
 ## How to interact with the visuals? ## 
 All visuals included in the current folder are interactive. However, due to technical difficulty of embedding these visuals directly on GitHub, I opted to include static screenshots followed by URLs. By clicking the URLs, the user of the project can engage with the visual directly. 
