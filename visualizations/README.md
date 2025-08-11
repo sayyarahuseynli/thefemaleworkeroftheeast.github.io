@@ -8,7 +8,7 @@ The generated file names follow the naming convention: topicVis + the number of 
 
 ## How to view with the visuals? ## 
 To view the file, navigate to the file in the Visualizations folder, select one of the HTML files, and click on it. You will see the raw file on your page, that's all right. Bring your cursor to the third button at the top right side of the page, which will be Download raw file. Having downloaded it on your devide, open the file using your favorite browser and explore. 
-![download raw file](download raw file.jpg)
+![download raw file](visualizations/download raw file.jpg)
 
 ## How to interact with the visuals? ## 
 All visuals included in the current folder are interactive. However, due to technical difficulty of embedding these visuals directly on GitHub, I opted to include static screenshots followed by URLs. By clicking the URLs, the user of the project can engage with the visual directly. 
