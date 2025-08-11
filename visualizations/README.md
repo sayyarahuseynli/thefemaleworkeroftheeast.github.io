@@ -2,7 +2,7 @@
 
 The visuals included in the current folder contain the outputs of Topic Modeling generated using Python together with spaCy. The specific tool that made the visuals possible was [pyLDAvis](https://pypi.org/project/pyLDAvis/), the tool of Python library designed to create interactive visualizations.
 
-### File naming convention ###
+## File naming convention ##
 
 The generated file names follow the naming convention: topicVis + the number of topics portrayed in that visual + .html. If I changed any variables, such as the number of columns, and ran the topic model code without changing the file name, the file that was generated first would be overwritten. To preserve the results of my numerous experiments, I made sure to change the file name every time. I added an underscore (_) and the identified the number of topics applicable for that run, which is reflected at the end of the file name.
 
