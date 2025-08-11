@@ -24,8 +24,8 @@ Please note: The circles represent topics while the sizes correlate with their c
   * Within the least common topics less than 1 may not provide a result.
   
 ### If this is your first time engaging with this kind of visual, you might be interested in this section prior to using the interactive visual.
- 	- While there is a legend on the bottom right of the visuals, some people may find it slightly confusing. Please note that the Red bar indicates the Estimated term frequency within the selected topic. Simply put, these terms are the most common within the topic of your choice. 
- 	While the light blue bar, stands for the Overall term frequency, which means that those terms are common accross all topics in the corpus. 
+ - While there is a legend on the bottom right of the visuals, some people may find it slightly confusing. Please note that the Red bar indicates the Estimated term frequency within the selected topic. Simply put, these terms are the most common within the topic of your choice. 
+ While the light blue bar, stands for the Overall term frequency, which means that those terms are common accross all topics in the corpus. 
 
 * Disclaimer 2: I haven't found a way to embed the HTML files into GitHub. This is the reason I guide my readers to download the files on their computers to view them. Hopefully, this is a temporary solution. In the meantime, I appreciate your patience, my dear reader.
 
