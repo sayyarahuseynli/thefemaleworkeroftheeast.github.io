@@ -34,5 +34,6 @@ See the static images of 10 and 30 topics here:
 
 ([30topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/30topics.jpg)) 
 
-For a detailed analysis, please use the [Topic Modeling analysis](analysis_and_findings/Topic modeling analysis.docx) file. To view it, download the file to your computer. If you have any comments, feel free to email me. 
+For a detailed analysis, please use the [Topic Modeling analysis] (analysis_and_findings/Topic modeling analysis.docx) file. To view it, download the file to your computer. If you have any comments, feel free to email me. 
+
 
