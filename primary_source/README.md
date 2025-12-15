@@ -4,7 +4,7 @@ Natalia Chernyaeva, a researcher who specializes in the history of parenting and
 
 Image 1. ![MapofTurkmenistan](image1.mapofturkmenistan.jpg)
 
-The second feature is the inclusion of narratives describing the local ecology and landscape. The descriptions of the temperature changes, flora and fauna, and natural resources help the readers of these brochures image the regions of the country they would have never had the change to visit, due to limited financial resources and lack of transportation infrastructure available for most people. 
+The second feature is the inclusion of narratives describing the local ecology and landscape. The descriptions of the temperature changes, flora and fauna, and natural resources help the readers imagine the regions of the country they would have never had the change to visit, due to limited financial resources and lack of transportation infrastructure.
 
 Image 2. ![Translation of the excerpt.](image2.descriptionofthelandscape.jpg). 
 
