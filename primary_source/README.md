@@ -10,7 +10,8 @@ Image 2. ![Translation of the excerpt.](image2.descriptionofthelandscape.jpg).
 
 >Translation of the paragraph 2, sentence 1: _“Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.”_ p. 4
 
-The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions. Such desriptions explain the specific focus on women populations, as they are depicted as oppressed but hard working and resilient individuals. 
+The third, and most interesting feature for me, are the sections about women’s artistic and cultural productions. Such desriptions explain the specific focus on women, as they are depicted as oppressed but hard working and resilient individuals. According to Gregory Massell, in the case of Muslim women, they were “a structural weakpoint in the traditional order: ... in effect, a *surrogate proletariat* where no proletariat in the real Marxist sense existed.” [^1]
+
 For this reason, in the topic modeling, I pay close attention to the appearance of words associated with forms of women's cultural production, such as textile, household object, and carpets. The excerpt on next picture illusrates an example of such mentions. 
 
 Image 3. ![Translation of the excerpt](image3.excerptfrompage32.jpg)
@@ -23,3 +24,4 @@ Image 4. ![View text](image4.viewtext.jpg)
 
 The result of this discovery was the next step of pre-processing, which is the extraction of the texts into separate Google Doc documents. The reason for using Google Doc instead of TextEdit, a Mac software for simple text files, was the ease of formatting and cleaning the data. The extraction of this text only included a copy+paste command from the View Text window into the Google Doc file, which is not the most fun process. Given each document consisted between 35-50 pages, this step of data collection took me more time than I would like to admit. After establishing the files with raw text, I saved each Google Doc file AS .txt. ЯКУТКА_Simple Text -> ЯКУТКА_Simple Text.txt. As a result of this process, I have two copies of each of the thirty files, one that is a Google Doc and one .txt.
 
+[^1]: Massell, Gregory J. The Surrogate Proletariat: Moslem Women and Revolutionary Strategies in Soviet Central Asia, 1919-1929. Princeton University Press, 1974. https://www.jstor.org/stable/j.ctt13x0s37. p. xxiv
