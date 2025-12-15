@@ -1,6 +1,6 @@
 # The Female Worker of the East #
 
-## About the project:
+## About the project ##
 
 This Digital Humanities Certificate project is called "The Female Worker of the East" (trans. from Russian - “Труженица Востока”). The project shares its title with the publication it is based on, a short periodical published between 1927 – 1929 in the Russian language. There are several terms used to describe these prints, mostly brochures and pamphlets - I will use brochure going forward. Each brochure consists of 30-50 pages of text, drawings and photographs, describing the livelihoods of women from thirty ethnic groups living across Soviet geography. The title signals to how Soviet ethnographers, who compiled the brochures, conceptualized the idea of the inner “East”. The geographic perimeters of the inner East in Soviet imagination extended from Caucasus to Central Asia, Siberia, Transbaikalia, Amur region, Kamchatka and Chukotka, described Natalya Chernyaeva, who writes extensively about various works of early Soviet ethnographers. 
 
@@ -55,6 +55,7 @@ Massell, Gregory J. The Surrogate Proletariat: Moslem Women and Revolutionary St
 In Russian:
 
 [Chernyaeva N. Imagining the Soviet East: Narratives of Popular Ethnography in a Series of Pamphlets, The Female Worker of the East, 1927–1929. Etnografia. 2022. 3 (17): 149–178. (In Russ.). doi 10.31250/2618-8600-2022-3 (17)-149-178](https://etnografia.kunstkamera.ru/en/archive/2022_issue_3_17/chernyaeva_n_imagining_the_soviet_east_narratives_of_popular_ethnography_in_a_series_of_pamphletsthe_female_worker_of_the_east_1) 
+
 
 
 
