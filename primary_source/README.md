@@ -16,7 +16,7 @@ Image 2.
 
 The third, and most interesting feature for me, are the sections about women’s labor which include artistic and cultural productions. Such desriptions explain the specific focus on women, as they are depicted as oppressed but hard working and resilient individuals. According to Gregory Massell, in the case of Muslim women, they were “a structural weakpoint in the traditional order: ... in effect, a *surrogate proletariat* where no proletariat in the real Marxist sense existed.” [^2] 
 
-For this reason, in the topic modeling, I pay close attention to the appearance of topics associated with forms of women's cultural production, such as textile, household object, and carpets. The excerpt on next picture illusrates an example of such mentions. 
+For this reason, in the topic modeling, I pay close attention to the appearance of topics associated with forms of women's labor. Descriptions of domestic work are included in nearly every brochure. However, I was particularly drawn to labor associated with the production of objects which can be classified as culture, such as textile, household object, and carpets. The excerpt on next picture illusrates an example of such depictions. 
 
 Image 3. 
 
