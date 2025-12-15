@@ -10,6 +10,7 @@ This Digital Humanities Certificate project is called "The Female Worker of the 
 
 At first glance, I noticed a descriptive, structural and marketing uniformity among the brochures. For one, the ethnic groups within each respective brochure appear to have been described as backwards, particularly the women. Structurally, all thirty have the same number of chapters, following the same narrative structure, which starts with an overview of the environment each community inhabits, followed by observations on the roles of women in the community as whole and in the family, finalized by developments brought to these communities after the revolution. From the marketing standpoint, all had a circulation of 7000 copies, with prices ranging between 18-22 cents (trans. from Russian копеек). Considering such a limited scope and Russian being the language of the publication, it is reasonable to assume that the intended public for them were educated elite and institutional settings, such as libraries and universities. 
 
+
 However, I decided to take a closer look at these historical documents to try to unearth what their authors might have hidden in plain sight. For this interrogation I decided to utilize topic modeling using spaCy, a natural language processing (NLP) model which uses Python to operate. For my research I identified the following **questions**: 
 
 - What are the main topics that are shared among brochures? Do they match to the results of the close reading? 
@@ -41,11 +42,15 @@ Overall, I argue that "The Female Worker of the East" presents a complex and mul
 
 In English:
 
+Hirsch, Francine. Ebook of Empire of Nations: Ethnographic Knowledge and the Making of the Soviet Union. Cornell University Press, 2005. https://hdl.handle.net/2027/heb40037.0001.001.
+
+Massell, Gregory J. The Surrogate Proletariat: Moslem Women and Revolutionary Strategies in Soviet Central Asia, 1919-1929. Princeton University Press, 1974. https://www.jstor.org/stable/j.ctt13x0s37.
+
+[Meet the Method: Computational Text Analysis](https://cssh.northeastern.edu/nulab/meet-the-method-computational-text-analysis/)  
+
 [Russian Corpora](https://ruscorpora.ru/en) 
 
 [Topic Modeling Russian History](https://link.springer.com/chapter/10.1007/978-3-030-42855-6_24#Sec9)
-
-[Meet the Method: Computational Text Analysis](https://cssh.northeastern.edu/nulab/meet-the-method-computational-text-analysis/)  
 
 In Russian:
 
