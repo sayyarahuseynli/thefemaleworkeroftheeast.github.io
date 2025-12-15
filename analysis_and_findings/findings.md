@@ -1,7 +1,13 @@
+**About the findings**
+
+One of the most important decisions that needs to be made before conducting a topic modeling analysis is to decide on an optimal number of topics. Most researchers suggest experimenting with different numbers to evaluate the quality of topic outputs. On one hand, analyzing larger data sets with a low number of topics will result in the generation of topics that are not meaningfully representative, which means missing out on the granularity of the data. On the other hand, using too many topics will generate outputs with topics too rare across the files. However, the only way to come up with an optimal number of topics is to experiment with different number of topics and evaluate what works best. 
+
+For the current analysis, I experimented with 10, 30, 50 and 100 topics. The outputs generated using 10 and 30 topics were more descriptive than those of 50 and 100. Unlike with large data sets, having more topics to analyze didn’t lend granular outputs, instead the terms became repetitive thus unusable. For this reason, the below analysis, includes outputs generated with 10 and 30 topics. The first table shows most representative and unique terms in 9 top topics. Then I included terms that uniquely appeared in each topic in the Terms column. Lastly, I recorded the subjective topic titles for each set of terms in the third column. 
+
+
 ## Findings using 10 topics ##
 
 The first table shows most representative and unique terms across 9 topics. First, I included terms that uniquely appeared in each topic in the Terms column. Then, I recorded the subjective topic titles for each set of terms in the third column. 
-
 
 ![table10topics](topic10table.jpg)
 
