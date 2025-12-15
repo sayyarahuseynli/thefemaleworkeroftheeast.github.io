@@ -3,11 +3,13 @@ The Female Worker of the East, “Tруженица Востока” in Russian
 Natalia Chernyaeva, a researcher who specializes in the history of parenting and motherhood in Imperial and Soviet Russia, [says](https://www.academia.edu/102573955/Chernyaeva_Imagining_the_Soviet_East_Narratives_of_Popular_Ethnography_in_a_Series_of_Pamphlets_The_Female_Worker_of_the_East_1927_1929) that these pamphlets are not regular examples of Soviet propaganda. There are three distinct features of this publication that set it apart from other propaganda materials. Dr. Chernyaeva pointed out that the publication has been authored by cultural professionals, such as anthropologists and ethnographers, rather than members Bolshevik party. The evidence of cultural authorship are photos, maps, descriptions of cultural traditions such as marriages, household behaviors, and lifestyles. 
 
 Image 1. 
+
 ![MapofTurkmenistan](image1.mapofturkmenistan.jpg)
 
 The second feature is the inclusion of narratives describing the local ecology and landscape. The descriptions of the temperature changes, flora and fauna, and natural resources help the readers imagine the regions of the country they would have never had the change to visit, due to limited financial resources and lack of transportation infrastructure.
 
 Image 2. 
+
 ![Translation of the excerpt.](image2.descriptionofthelandscape.jpg). 
 
 >Translation of the paragraph 2, sentence 1: _“Sand steppes are common in many places, especially in south-east. During two spring months, these landscapes get coated with a lush cover of field flowers, while the rest of the year when these plains are barren, covered with yellow with sunburned grass and more durable thorn plants. Unfortunately, the desert with finds its way to these regions too, with its deadly appearance of dunes.”_ p. 4
@@ -17,6 +19,7 @@ The third, and most interesting feature for me, are the sections about women’s
 For this reason, in the topic modeling, I pay close attention to the appearance of words associated with forms of women's cultural production, such as textile, household object, and carpets. The excerpt on next picture illusrates an example of such mentions. 
 
 Image 3. 
+
 ![Translation of the excerpt](image3.excerptfrompage32.jpg)
 
 >Translation of the paragraph 2, sentence 2. _“Her subtle artistic taste illustrated on the handmade carpets, textiles, and other objects, raise her above men, whose works are devoid of any artistic expression. 2nd sentence in the 2nd paragraph"_. p.32
