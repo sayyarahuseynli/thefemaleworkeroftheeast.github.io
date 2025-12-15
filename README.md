@@ -38,7 +38,7 @@ Overall, I argue that "The Female Worker of the East" presents a complex and mul
 * [Acknowledgements](https://github.com/sayyarahuseynli/workeroftheeast.github.io/wiki/Acknowledgment#who-made-the-project-possible)
 
 
-## Useful links ##
+## Secondary sources ##
 
 In English:
 
@@ -55,6 +55,7 @@ Massell, Gregory J. The Surrogate Proletariat: Moslem Women and Revolutionary St
 In Russian:
 
 [Chernyaeva N. Imagining the Soviet East: Narratives of Popular Ethnography in a Series of Pamphlets, The Female Worker of the East, 1927–1929. Etnografia. 2022. 3 (17): 149–178. (In Russ.). doi 10.31250/2618-8600-2022-3 (17)-149-178](https://etnografia.kunstkamera.ru/en/archive/2022_issue_3_17/chernyaeva_n_imagining_the_soviet_east_narratives_of_popular_ethnography_in_a_series_of_pamphletsthe_female_worker_of_the_east_1) 
+
 
 
 
