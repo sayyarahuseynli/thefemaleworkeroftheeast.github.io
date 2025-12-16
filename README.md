@@ -22,7 +22,7 @@ However, I decided to take a closer look at these historical documents to try to
 - Considering that topic modeling is designed to analyze representative or thematic samples of large data sets, what the benefits of utilizing it with a small corpus? 
 
 
-Overall, I argue that "The Female Worker of the East" presents a complex and multifaceted perspective on Muslim women which needs a careful and close examination. Even though this complexity may not be visible in the topic modeling outputs, small size print media like this one can serve as a starting point for intriguing research questions, guiding the work of other researchers. Based on the research questions, I expect the audience of this project to be researchers of Soviet gender and minority histories and digital humanists interested in using topic modeling as a primary analytical tool. 
+Overall, I argue that "The Female Worker of the East" presents a nuanced view of the lives of ethnic women according to which they were hardworking, skilled, and learned individuals. Even though this diversity of experiences is toned down by the state's agenda to highlight the negative aspects of their lives, it is important to look beyond that propoganda language. Topic modeling as a tool allowed to engage with this corpus distantly, and in combination with close-reading and contextualization from secondary sources, directed targeted investigation. Thus this project serves as teaching tool for researchers of Soviet gender and minority histories to engage with the outputs and make their own discoveries. In addition, digital humanists interested in using topic modeling as a primary analytical tool might find this project intriguing as it deliberately explored a small corpus, and showcases the limitations and advantages of this method.
 
 
 ## How to engage with the project? ##
@@ -57,9 +57,4 @@ Massell, Gregory J. The Surrogate Proletariat: Moslem Women and Revolutionary St
 In Russian:
 
 [Chernyaeva N. Imagining the Soviet East: Narratives of Popular Ethnography in a Series of Pamphlets, The Female Worker of the East, 1927–1929. Etnografia. 2022. 3 (17): 149–178. (In Russ.). doi 10.31250/2618-8600-2022-3 (17)-149-178](https://etnografia.kunstkamera.ru/en/archive/2022_issue_3_17/chernyaeva_n_imagining_the_soviet_east_narratives_of_popular_ethnography_in_a_series_of_pamphletsthe_female_worker_of_the_east_1) 
-
-
-
-
-
 
