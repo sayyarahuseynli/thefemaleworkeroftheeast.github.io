@@ -1,4 +1,4 @@
-**About the findings**
+*About the findings*
 
 One of the most important decisions that needs to be made before conducting a topic modeling analysis is to decide on an optimal number of topics. Most researchers suggest experimenting with different numbers to evaluate the quality of topic outputs. On one hand, analyzing larger data sets with a low number of topics will result in the generation of topics that are not meaningfully representative, which means missing out on the granularity of the data. On the other hand, using too many topics will generate outputs with topics too rare across the files. However, the only way to come up with an optimal number of topics is to experiment with different number of topics and evaluate what works best. 
 
@@ -38,6 +38,36 @@ Example 3:
 
 Topic 3 with terms like “child” and “family” indicates that baring children was one of the main roles of women within their respective societies. Comparatively, Topic 6 has the term “economic” which signals the presence of discussions about the economy, maybe labor, and income. To understand the meaning of it, I close read the texts and realized that the term “economic” that appears so frequently across all topics, more specifically in Topic 6 is used in two instances: first to describe the primary income generating occupation within each community, and second, the economic dependency of women on their husbands.
 
-
 ## Findings using 30 topics ##
 
+
+![analysis 30 topics](project images/analysis 30 topics.jpg)
+
+Even at first glance the model with 30 topics offers a more detailed perspective on the content of the corpus. When looking at Topic 1 in outputs of 10 and 30 topics four terms overlap: “женский” (female), “население” (population), “отношение” (relationship), and “мужчина” (man). The 10-topic model has terms like Persian, Persia, and Mordvins, which would have appeared only in brochures, dedicated to those specific ethnic community which means they are not useful to understand the totality of the dataset. In comparison the 30-topic model showcases new terms, including ребенок (child), семья (family), край (district), хозяйство (household), условие (conditions) and образ (image). 
+
+Terms like child, family, and household, help to paint a fuller picture of the lives of ethnic women in the early Soviet Union. Using these terms, I titled this topic “women’s role in the household.” It is important to note that creating such titles for topics was one of the harder aspects of this project. As a neurodivergent individual, deciding to eliminate a chunk of the data to highlight the other seemed unfair at first, but with time and practice, this process became easier. 
+Now let’s focus on the term “условие” (condition), a term that appeared in a significant scale in five topics. Considering its neighboring terms like “отношение” (relationship), хозяйство (household), and образ (image), it might be referring to women’s conditions of life. While this assumption is true, a close reading of the sources revealed that it was frequently used to describe the conditions of natural habitat and environment, flora and fauna, and landscape of a given community. See the example below:
+
+Example 4: 
+>“Климатические условия Таджикистана вполне соответствуют его геологической структуре” – brochure Tadzhichka, p.7
+
+>Translation: Climate conditions of Tajikistan are concurrent with its geographic structure” 
+
+In my last finding I want to use an example of a unique term. Having gone through all 30 topics, I extracted unique ones that I included in the table above and then read the sources to understand their contexts. For example, Topic 27 included the term обычай (custom/tradition), which was the first instance of its appearance. “Brochures sequentially described the land inhabited by the people, their economic and household structures, customs and traditions, and national character.”  The inclusion of selective traditional practices by the authors highlighting the terribly oppressive lives of the women, once again reinforces party objective of liberating the women of the East and turning them into proletariat. In many cases, the authors argued that despite the developments in the social conditions of women, including the opening of schools, increased access to public spaces, and social mobility, the local customs kept the women oppressed. Marianna Kamp described the situation of Uzbek women who went along with the Soviet policies but faced hostility by the local conservatives in the late 1920s. 
+
+Example 4:
+
+>“Городская старуха-тюрчанка русские школы и университеты, положение дочерей, в силу обычая, все же бывало бесправным; когда девушки тюрчанки, окончившие гимназии и институты в Петербурге, выдавались замуж за безграмотных стариков-миллионеров.” [^1] from Azerbaijanka brochure
+>Translation: the position of daughters, due to custom, was still disenfranchised; even the Turkish girls who graduated from gymnasiums (schools) and universities in St. Petersburg were married to uneducated elderly-millionaires.”
+
+Example 5:
+
+>“где население продолжало жить по муссульманским законам и обычаям, где женская половина населения находилась почти что в рабстве у мужской.” [^2 ]From Azerbaijanka brochure
+
+>Translation: “in locations where the population continued to live according to Muslim laws and customs, where the female half of the population was in the position of slaves to the males”
+
+***Marianna Kamp***
+
+From 1927-1930 the violence against women in Uzbekistan was on the rise, due to state’s intervention into family and social life in the region. “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
+
+As these examples demonstrate, topic modeling was a helpful tool in understanding general themes of the dataset. In addition, using topic modeling provided opportunities for targeted research, which in combination with close reading and historical contextualization are effective even with relatively small data collections.
