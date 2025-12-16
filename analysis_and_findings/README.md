@@ -30,11 +30,9 @@ For the current analysis, I experimented with 10, 30, 50 and 100 topics. The out
 
 See the static images of 10 and 30 topics here: 
 
-([10topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/10topics.jpg)) 
-
-([30topics](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/visualizations/30topics.jpg)) 
 
 For a detailed analysis, please use the [Topic Modeling analysis](https://github.com/sayyarahuseynli/thefemaleworkeroftheeast.github.io/blob/main/analysis_and_findings/Topic%20modeling%20analysis.docx) file. To view it, download the file to your computer. If you have any comments, feel free to email me. 
+
 
 
 
