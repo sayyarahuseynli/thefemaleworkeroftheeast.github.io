@@ -40,12 +40,6 @@ Topic 3 with terms like “child” and “family” indicates that baring child
 
 ## Findings using 30 topics ##
 
-<br>
-
-![30 topics analysis](./project images/analysis 30 topics.jpg)
-
-!(project images/analysis 30 topics.jpg)
-
 Even at first glance the model with 30 topics offers a more detailed perspective on the content of the corpus. When looking at Topic 1 in outputs of 10 and 30 topics four terms overlap: “женский” (female), “население” (population), “отношение” (relationship), and “мужчина” (man). The 10-topic model has terms like Persian, Persia, and Mordvins, which would have appeared only in brochures, dedicated to those specific ethnic community which means they are not useful to understand the totality of the dataset. In comparison the 30-topic model showcases new terms, including ребенок (child), семья (family), край (district), хозяйство (household), условие (conditions) and образ (image). 
 
 Terms like child, family, and household, help to paint a fuller picture of the lives of ethnic women in the early Soviet Union. Using these terms, I titled this topic “women’s role in the household.” It is important to note that creating such titles for topics was one of the harder aspects of this project. As a neurodivergent individual, deciding to eliminate a chunk of the data to highlight the other seemed unfair at first, but with time and practice, this process became easier. 
@@ -74,6 +68,7 @@ Example 5:
 From 1927-1930 the violence against women in Uzbekistan was on the rise, due to state’s intervention into family and social life in the region. “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
 
 As these examples demonstrate, topic modeling was a helpful tool in understanding general themes of the dataset. In addition, using topic modeling provided opportunities for targeted research, which in combination with close reading and historical contextualization are effective even with relatively small data collections.
+
 
 
 
