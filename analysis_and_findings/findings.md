@@ -40,6 +40,9 @@ Topic 3 with terms like “child” and “family” indicates that baring child
 
 ## Findings using 30 topics ##
 
+
+![30 topics analysis](project_images/analysis30topics.jpg)
+
 Even at first glance the model with 30 topics offers a more detailed perspective on the content of the corpus. When looking at Topic 1 in outputs of 10 and 30 topics four terms overlap: “женский” (female), “население” (population), “отношение” (relationship), and “мужчина” (man). The 10-topic model has terms like Persian, Persia, and Mordvins, which would have appeared only in brochures, dedicated to those specific ethnic community which means they are not useful to understand the totality of the dataset. In comparison the 30-topic model showcases new terms, including ребенок (child), семья (family), край (district), хозяйство (household), условие (conditions) and образ (image). 
 
 Terms like child, family, and household, help to paint a fuller picture of the lives of ethnic women in the early Soviet Union. Using these terms, I titled this topic “women’s role in the household.” It is important to note that creating such titles for topics was one of the harder aspects of this project. As a neurodivergent individual, deciding to eliminate a chunk of the data to highlight the other seemed unfair at first, but with time and practice, this process became easier. 
