@@ -41,7 +41,8 @@ Topic 3 with terms like “child” and “family” indicates that baring child
 ## Findings using 30 topics ##
 
 
-![30 topics analysis](project_images/project_images/analysis30topics.jpg)
+![30 topics analysis](thefemaleworkeroftheeast.github.io/project_images
+/analysis30topics.jpg)
 
 Even at first glance the model with 30 topics offers a more detailed perspective on the content of the corpus. When looking at Topic 1 in outputs of 10 and 30 topics four terms overlap: “женский” (female), “население” (population), “отношение” (relationship), and “мужчина” (man). The 10-topic model has terms like Persian, Persia, and Mordvins, which would have appeared only in brochures, dedicated to those specific ethnic community which means they are not useful to understand the totality of the dataset. In comparison the 30-topic model showcases new terms, including ребенок (child), семья (family), край (district), хозяйство (household), условие (conditions) and образ (image). 
 
