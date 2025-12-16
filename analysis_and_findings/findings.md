@@ -1,4 +1,4 @@
-#About the findings
+# About the findings
 
 One of the most important decisions that needs to be made before conducting a topic modeling analysis is to decide on an optimal number of topics. Most researchers suggest experimenting with different numbers to evaluate the quality of topic outputs. On one hand, analyzing larger data sets with a low number of topics will result in the generation of topics that are not meaningfully representative, which means missing out on the granularity of the data. On the other hand, using too many topics will generate outputs with topics too rare across the files. However, the only way to come up with an optimal number of topics is to experiment with different number of topics and evaluate what works best. 
 
@@ -71,5 +71,6 @@ Example 5:
 From 1927-1930 the violence against women in Uzbekistan was on the rise, due to state’s intervention into family and social life in the region. “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
 
 As these examples demonstrate, topic modeling was a helpful tool in understanding general themes of the dataset. In addition, using topic modeling provided opportunities for targeted research, which in combination with close reading and historical contextualization are effective even with relatively small data collections.
+
 
 
