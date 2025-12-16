@@ -9,7 +9,7 @@ For the current analysis, I experimented with 10, 30, 50 and 100 topics. The out
 
 The first table shows most representative and unique terms across 9 topics. First, I included terms that uniquely appeared in each topic in the Terms column. Then, I recorded the subjective topic titles for each set of terms in the third column. 
 
-![table10topics](topic10table.jpg)
+![table10topics](topic10table.jpg) 
 
 The most common topics according to this table are women’s role in community and family. The appearance of these topics was an expected outcome of topic modeling: the sequence of their presence follows the organizational structure of the brochures. Similarly, Topic 3 demonstrates that one of the main roles of women within their respective societies was bearing children, another expected outcome.
 
@@ -41,7 +41,7 @@ Topic 3 with terms like “child” and “family” indicates that baring child
 ## Findings using 30 topics ##
 
 
-!(project images/analysis 30 topics.jpg)
+!(thefemaleworkeroftheeast.github.io/project images/analysis 30 topics.jpg)
 
 Even at first glance the model with 30 topics offers a more detailed perspective on the content of the corpus. When looking at Topic 1 in outputs of 10 and 30 topics four terms overlap: “женский” (female), “население” (population), “отношение” (relationship), and “мужчина” (man). The 10-topic model has terms like Persian, Persia, and Mordvins, which would have appeared only in brochures, dedicated to those specific ethnic community which means they are not useful to understand the totality of the dataset. In comparison the 30-topic model showcases new terms, including ребенок (child), семья (family), край (district), хозяйство (household), условие (conditions) and образ (image). 
 
@@ -71,6 +71,7 @@ Example 5:
 From 1927-1930 the violence against women in Uzbekistan was on the rise, due to state’s intervention into family and social life in the region. “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
 
 As these examples demonstrate, topic modeling was a helpful tool in understanding general themes of the dataset. In addition, using topic modeling provided opportunities for targeted research, which in combination with close reading and historical contextualization are effective even with relatively small data collections.
+
 
 
 
