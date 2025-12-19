@@ -9,7 +9,7 @@ For the current analysis, I experimented with 10, 30, 50 and 100 topics. The out
 
 The first table shows most representative and unique terms across 9 topics. First, I included terms that uniquely appeared in each topic in the Terms column. Then, I recorded the subjective topic titles for each set of terms in the third column. 
 
-![table10topics](topic10table.jpg) 
+![table10topics](10topicposition.jpg) 
 
 The most common topics according to this table are women’s role in community and family. The appearance of these topics was an expected outcome of topic modeling: the sequence of their presence follows the organizational structure of the brochures. Similarly, Topic 3 demonstrates that one of the main roles of women within their respective societies was bearing children, another expected outcome.
 
