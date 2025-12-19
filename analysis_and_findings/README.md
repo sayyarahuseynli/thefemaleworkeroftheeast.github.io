@@ -11,6 +11,7 @@ The first table shows most representative and unique terms across 9 topics. Firs
 
 ![table10topics](10topicposition.jpg) 
 
+
 The most common topics according to this table are women’s role in community and family. The appearance of these topics was an expected outcome of topic modeling: the sequence of their presence follows the organizational structure of the brochures. Similarly, Topic 3 demonstrates that one of the main roles of women within their respective societies was bearing children, another expected outcome.
 
 An expected finding was the term положение (position), which was present in 8/10 topics. A targeted investigation using close reading of the source texts using this term in key work search revealed peculiar findings. 
@@ -71,6 +72,7 @@ Example 5:
 From 1927-1930 the violence against women in Uzbekistan was on the rise, due to state’s intervention into family and social life in the region. “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
 
 As these examples demonstrate, topic modeling was a helpful tool in understanding general themes of the dataset. In addition, using topic modeling provided opportunities for targeted research, which in combination with close reading and historical contextualization are effective even with relatively small data collections.
+
 
 
 
