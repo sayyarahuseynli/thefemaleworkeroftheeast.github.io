@@ -67,16 +67,13 @@ Example 5:
 
 >Translation: “in locations where the population continued to live according to Muslim laws and customs, where the female half of the population was in the position of slaves to the males”
 
-***Marianne Kamp***
 
-From 1927-1930 the violence against women in Uzbekistan was on the rise, due to state’s intervention into family and social life in the region. “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
+Now let's supplement these findings with information with secondary sources. What was the late 1920s like for the women in these communities and their position in society? What were some of the local responses to the Soviet intervention of liberating the women of the "east"? 
+
+
+> “The 1920s were not a peaceable time in Uzbekistan, and the wave of murders of women emerged in the midst of a broad social and political conflict…murders of women for unveiling were not spontaneous crimes of passion. They were premeditated, incited and often involved groups of people…murders of women were intended to terrorize other women.” P. 187 [^3] - Kamp, Marianne. “The Counter-Hujum: Terror and Veiling.” In The New Woman in Uzbekistan: Islam, Modernity, and Unveiling under Communism, 186–214. University of Washington Press, 2006. http://www.jstor.org/stable/j.ctvcwncc0.14. P. 187
 
 As these examples demonstrate, topic modeling was a helpful tool in understanding general themes of the dataset. In addition, using topic modeling provided opportunities for targeted research, which in combination with close reading and historical contextualization are effective even with relatively small data collections.
-
-
-
-
-
 
 
 
